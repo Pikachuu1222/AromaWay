@@ -2,7 +2,7 @@
 
 AromaWay is a wearable assistive system that enables visually impaired individuals to safely cross roads using real-time sensory feedback. The system integrates traffic light recognition with scent-based and haptic signals.
 
----
+
 
 ## 🧠 Core Concept
 
@@ -10,7 +10,7 @@ Smellight detects red and green lights and communicates them through two primary
 - **Scent**: Unique perfume capsules emit brief scents to indicate red or green light.
 - **Vibration**: Gentle vibrations notify the user of state transitions and approaching traffic islands.
 
----
+
 
 ## 🧰 System Components
 
@@ -20,7 +20,7 @@ Smellight detects red and green lights and communicates them through two primary
 - **Vibrators**: Physical feedback on both sides of the glasses.
 - **Wireless Receiver**: Connects to real-time C-V2X traffic data.
 
----
+
 
 ## 🧪 Software & Model
 
@@ -36,7 +36,6 @@ Smellight detects red and green lights and communicates them through two primary
 - **Validation Accuracy**: ~18.2% (room for improvement)
 - **Classes**: `["red", "green"]`
 
----
 
 ## 🔁 Workflow
 
